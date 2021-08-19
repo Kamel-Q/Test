@@ -1,0 +1,3 @@
+rootProject.name='Grad'
+include ':app'
+include ':cleanexceptionlib'
